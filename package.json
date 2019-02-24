@@ -33,7 +33,7 @@
     },
     "homepage": "https://github.com/westmonroe/pdf-puppeteer#readme",
     "dependencies": {
-        "puppeteer": "^1.2.0"
+        "puppeteer": "^1.12.2"
     },
     "devDependencies": {
         "babel-core": "^6.26.3",
